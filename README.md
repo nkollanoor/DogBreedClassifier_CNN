@@ -37,6 +37,6 @@ accuracy of 82% on test data. The model correctly predicted breeds for 686 image
 
 ### Sample Outputs
 
-![Sample output](outputs/out1.PNG) 
-![Sample output](outputs/out2.PNG) 
+![Sample output](./outputs/out1.PNG) 
+![Sample output](./outputs/out2.PNG) 
 
