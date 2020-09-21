@@ -14,6 +14,12 @@ The goal is to build a ML model that can be implemented as a web application to 
 <li>Using transfer learning, where a pretrained model is downloaded and used.</li>
 </ul>
 
+### Dataset
+
+![Dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) 
+![Human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) 
+
+
 
 ### CNN model built from scratch
 <p align="justify">Built a CNN model from scratch to solve the problem. The model has 3
